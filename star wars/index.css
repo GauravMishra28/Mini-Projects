@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-image: url("https://c.tenor.com/dDYJqUGJtQkAAAAM/stars-night.gif");
+  }
+
+  #background {
+    height: 80%;
+    width: 100%;
+    /* border: 1px solid palevioletred; */
+  }
+  
+  input {
+    margin: auto;
+    font-size: 1 rem;
+    border: 5px solid goldenrod;
+    padding: 20px 180px 20px 180px;
+    background-image: url("https://cdn-icons.flaticon.com/png/128/3031/premium/3031293.png?token=exp=1653838003~hmac=b5de6440651cca0d0767fc26bfe0f526");
+    background-size: 30px;
+    background-position: right;
+    background-repeat: no-repeat;
+    border-radius: 25px;
+  }
+
+  .container {
+    height: fit-content;
+    /* border: 1px solid red; */
+    display: grid;
+    margin-top: 300px;
+  }
+
+  #logo {
+    margin: auto;
+  }
+
+  #sec {
+    margin: auto;
+    /* border: 1px solid green; */
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 25px;
+  }
+  #show {
+    /* border: 1px solid blue; */
+    width: 30%;
+    height: fit-content;
+    margin: auto;
+  }
+
+  h2,
+  p,
+  button {
+    color: rgb(236, 208, 20);
+    /* font-size: 40px; */
+    font-weight: 700;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 40px;
+    font-weight: 700;
+    vertical-align: baseline;
+    letter-spacing: normal;
+  }
+  p{
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 40px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    text-align: center;
+  }
+
+  #name {
+    /* border: 2px solid rgb(236, 208, 20); */
+    width: 20%;
+    margin: auto;
+    height: 50px;
+    margin-bottom: 30px;
+  }
+
+  #info {
+    border: 5px solid rgb(236, 208, 20);
+    width: 30%;
+    margin: auto;
+    height: fit-content;
+    margin-bottom: 30px;
+    border-radius: 30px;
+  }
+  #anatomy {
+    border: 5px solid rgb(236, 208, 20);
+    width: 30%;
+    margin: auto;
+    height: fit-content;
+    border-radius: 30px;
+  }
+
+  #btn {
+    border: 2px solid rgb(236, 208, 20);
+    width: 10%;
+    margin: auto;
+    margin-top: 50px;
+    height: 50px;
+    border-radius: 5px;
+  }
